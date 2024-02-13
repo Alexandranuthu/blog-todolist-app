@@ -129,7 +129,7 @@ footer a:hover {
             @endif
 
             <header>
-                <div class="fixed top-0 left-0 p-6 z-10 font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">
+                <div class="fixed top-0 left-0 p-6 z-10 font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm ">
                     INKVERSE
                 </div>
             </header>
