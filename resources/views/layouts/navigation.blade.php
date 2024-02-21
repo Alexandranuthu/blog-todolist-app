@@ -24,7 +24,7 @@
 
     <!-- Link to Task -->
     <x-nav-link :href="route('tasks.create')" :active="request()->routeIs('tasks.create')">
-        {{ __('Create Task') }}
+        {{ __('Create Tasks') }}
     </x-nav-link>
 
     <x-nav-link :href="route('posts.index')" :active="request()->routeIs('posts.index')">
